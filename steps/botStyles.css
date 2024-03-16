@@ -1,0 +1,10 @@
+
+
+/* Style for the custom chat message component */
+.custom-chat-message {
+    background-color: #3498db; /* Background color */
+    color: #fff; /* Text color */
+    padding: 10px; /* Add padding for spacing */
+    border-radius: 8px; /* Add rounded corners for a chat bubble effect */
+    margin-bottom: 10px; /* Add margin between messages */
+  }
